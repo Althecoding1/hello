@@ -1,1 +1,1 @@
-console.log('Hello World!')
+puts "Hello, #{ARGV.first}!"
